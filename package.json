@@ -323,5 +323,9 @@
       "href": "https://marketplace.visualstudio.com/items/zhuangtongfa.Material-theme",
       "description": "Extension Rating"
     }
-  ]
+  ],
+  "volta": {
+    "node": "22.14.0",
+    "yarn": "1.22.22"
+  }
 }
